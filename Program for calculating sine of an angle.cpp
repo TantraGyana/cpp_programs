@@ -1,4 +1,5 @@
-#include <iostream>  
+#include <iostream>
+
 #include <math.h>
 
 #define PI 3.14159265;  
@@ -14,4 +15,4 @@ int main()
     cout<<"\n"<<"sin "<<angle<<" = "<<ans;  
     cout<<"\n Sine of "<<angle<<" degree is: "<<ans;
     return 0;  
-}  
+}
